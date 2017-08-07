@@ -151,7 +151,7 @@ export default class Application extends Component {
 
     if (!transactions.length) {
       return (
-        <h3>The queue seems is empty.</h3>
+        <h3>The queue seems empty.</h3>
       );
     }
 
@@ -183,7 +183,7 @@ export default class Application extends Component {
 
     if (!localTransactions.length) {
       return (
-        <h3>You haven't sent any transactions yet.</h3>
+        <h3>You have not sent any transactions yet.</h3>
       );
     }
 
