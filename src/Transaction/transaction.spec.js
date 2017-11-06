@@ -18,7 +18,7 @@ import React from 'react';
 import { shallow } from 'enzyme';
 
 import EthApi from '@parity/api';
-import '@parity/shared/environment/tests';
+import '@parity/shared/lib/environment/tests';
 
 // Mock API for tests
 import * as Api from '../parity';
