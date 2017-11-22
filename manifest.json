@@ -1,8 +1,8 @@
 {
   "id": "dapp-localtx",
   "name": "dapp-localtx",
-  "description": "Dapp for Parity",
+  "description": "Local transaction viewer",
   "author": "Parity Team <admin@parity.io>",
   "version": "1.99.99",
-  "iconUrl": ""
+  "iconUrl": "icon.png"
 }
